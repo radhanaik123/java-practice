@@ -26,9 +26,6 @@ class operators{
          boolean l1=n>=n1&&n<=n1;
          boolean l2=d1==6.8||d2!=4;
          
-
-         //boolean l3=!
-         
          System.out.println("l1:"+l1+"\nl2:"+l2);
 
 
