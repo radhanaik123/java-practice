@@ -18,7 +18,7 @@ class operators{
          boolean b=d1>d2;
          boolean b1=d1<d2;
          boolean n2=n==n1, n3=n!=n1;
-         boolean m=d1>=d2,m1=d1<=d2;
+         boolean m=d1>=d2,m1=d1<=d2; 
          System.out.println(b+"\n"+b1+"\nn2:"+n2+"\nn3:"+n3+"\nm:"+m+"\nm1:"+m1);
          //boolean l1=n>=n1&n<=n1;
          //boolean l1=n>=n1|n<=n1;
