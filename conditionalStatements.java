@@ -42,5 +42,14 @@ public class conditionalStatements{
             default:
                     System.out.println("inavalid number");
         }
+        String da="Monday";
+        String result="";
+        switch(da){
+            case "Sunday","saturday"->result ="8am";
+            case "Monday"->result="6am";
+            default->result="7am";
+        }
+        System.out.println(result);
+
     }
 }
