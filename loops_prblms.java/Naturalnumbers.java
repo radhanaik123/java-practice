@@ -1,6 +1,6 @@
 
 
-public class p1 {
+public class Naturalnumbers {
     
     public static void main(String[] args){
     
